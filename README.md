@@ -311,27 +311,14 @@ Travel Advisor360 leverages several external APIs to provide comprehensive trave
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="/api/placeholder/100/100" alt="Youssef ELGARCH" width="100" style="border-radius:50%"/><br/><strong>Youssef ELGARCH</strong><br/>
-      <td align="center"><img src="/api/placeholder/100/100" alt="Hajar ELKASIRI" width="100" style="border-radius:50%"/><br/><strong>Hajar ELKASIRI</strong><br/>
+      <td align="center"><br/><strong>Youssef ELGARCH</strong><br/>
+      <td align="center"><br/><strong>Hajar ELKASIRI</strong><br/>
     </tr>
     <tr>
-      <td align="center"><img src="/api/placeholder/100/100" alt="Nisrine IBNOU-KADY" width="100" style="border-radius:50%"/><br/><strong>Nisrine IBNOU-KADY</strong><br/>
-      <td align="center"><img src="/api/placeholder/100/100" alt="Hiba EL OUERKHAOUI" width="100" style="border-radius:50%"/><br/><strong>Hiba EL OUERKHAOUI</strong><br/>
+      <td align="center"><br/><strong>Nisrine IBNOU-KADY</strong><br/>
+      <td align="center"><br/><strong>Hiba EL OUERKHAOUI</strong><br/>
     </tr>
   </table>
-</div>
-
----
-
-## 👨‍🏫 Supervision
-
-<div align="center">
-  <div style="padding: 20px; border: 2px solid #009688; border-radius: 10px; max-width: 500px; margin: 0 auto;">
-    <img src="https://i.imgur.com/Lumjpqh.png" alt="Professor Hatim GUERMAH" width="120" style="border-radius:50%"/>
-    <h3>Professor Hatim GUERMAH</h3>
-    <p><em>Project Supervisor</em></p>
-    <p>Head of Software Engineering- ENSIAS</p>
-  </div>
 </div>
 
 ---
